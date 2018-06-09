@@ -1,0 +1,43 @@
+[
+ {
+                    'name': "Al-Noor Mall, طريق الملك عبدالله الفرعي, العيون،، المدينة المنورة",
+                    'type': "Mall",
+                    'latitude': 24.4958762,
+                    'longitude': 39.5980626,
+                    'streetAddress': "King Abdullah Road"
+                },
+
+                {
+                    'name': "فدركرز",
+                    'type': "Restaurant",
+                    'latitude': 24.4954564,
+                    'longitude': 39.5974832,
+                    'streetAddress': "King Abdullah Road"
+                },
+                
+                
+                {
+                    'name': "مخازن م. بدر الدين للتسوق",
+                    'type': "Super Market",
+                    'latitude': 24.4938454,
+                    'longitude': 39.5966893,
+                    'streetAddress': "Alraya"
+                },
+                
+             
+                {
+                    'name': "مجمع القارات",
+                    'type': "Compelex Mall",
+                    'latitude': 24.4946558,
+                    'longitude': 39.5994788,
+                    'streetAddress': "King Abdullah Road"
+                },
+                
+                 {
+                    'name': "مطعم تفاحة",
+                    'type': "Restaurant",
+                    'latitude': 24.4929228,
+                    'longitude': 39.5911408,
+                    'streetAddress': "King Abdullah Road"
+                }
+]
